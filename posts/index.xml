@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hardcod3d Blog</title>
+    <link>https://hardcod3dd.github.io/posts/</link>
+    <description>Recent content in Posts on Hardcod3d Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hardcod3dd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ilk yazım</title>
+      <link>https://hardcod3dd.github.io/posts/giris/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardcod3dd.github.io/posts/giris/</guid>
+      <description>Giriş Uzun süredir aklımda olan fakat üşengeçlikten dolayı yazmadığım blogumu sonunda açtım.Şimdilik github üzerinde static olarak host edeceğim.
+İçerik Genel olarak çevrimiçi ortamda gizlilik,korunma gibi konularda yazacağım fakat arada sırada monero shilleyebilirim.Arada sırada raspberry pi,linux,hacking,sdr gibi konulardada yazılar yazabilirim.
+Ben kimim ? 22 yaşında genç fişşeq bir delikanlıyım.İlgilenenler için oğlak burcuyum intp-p bilmem ne ondanım.arada sırada aklıma çok deli manyak projeler gelsede fikir olarak kalır.üşengecim</description>
+    </item>
+    
+  </channel>
+</rss>
