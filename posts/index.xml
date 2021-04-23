@@ -5,7 +5,18 @@
     <link>https://hardcod3dd.github.io/posts/</link>
     <description>Recent content in Posts on Hardcod3d Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hardcod3dd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hardcod3dd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kullandığım uygulamalar</title>
+      <link>https://hardcod3dd.github.io/posts/uygulamalar/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hardcod3dd.github.io/posts/uygulamalar/</guid>
+      <description>Uygulamalar Bu yazıda gizlilik ve güvenlik için kullandığım bazı uygulamaları paylaşacağım.
+İnternet Tarayıcı: Firefox &amp;mdash; Chrome tarayıcının gmail hesabı eklediğimde bile bütün verilerimi senkronize etmesi.Telefonda chrome üzerinde eklenti kurulamaması ve gizlilik sebeplerinden ötürü açık kaynak olan Firefox tarayıcısını tavsiye ediyorum.Kurduktan sonra ayarlardan telemetri ve kullanım istatistiği göndermeyi kapatın
+Tarayıcı Eklentileri: Ublock Origin , Privacy Badger ,Decentreleyes &amp;mdash; Ublock origin reklam ve istenmeyen takipçileri engeller.Privacy badger yine aynı şekilde takipçileri engeller.Decentreleyes ise takip ve telemetri olarak kullanılabilecek cdn adreslerini,js kodlarını bilgisayarınıza kaydeder ve o şekilde erişir.</description>
+    </item>
+    
     <item>
       <title>ilk yazım</title>
       <link>https://hardcod3dd.github.io/posts/giris/</link>
